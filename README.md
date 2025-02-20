@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋  <br>I'm Nitin Dusseja, a passionate MERN Stack and a BSc IT Student.  <br><br>- 🎓 Currently pursuing Bachelor's in Information Technology (Final Year).  <br>- 💻 I specialize in React, JavaScript, HTML, CSS, and have experience with Node.js.  <br>- 🚀 I enjoy building visually appealing and user-friendly web applications.  <br>- 🌱 Currently learning Advanced Java Technology and exploring Artificial Intelligence.  <br>- 🧩 Outside coding, I love playing chess ♟️ and experimenting with IoT devices.  <br><br>
+Hey there! 👋  <br>I'm Nitin Dusseja, a passionate MERN Stack and a BSc IT Student.  <br><br>- 🎓 Currently pursuing Bachelor's in Information Technology (Final Year).  <br>- 💻 I specialize in React, JavaScript, HTML, CSS, and have experience with Node.js.  <br>- 🚀 I enjoy building visually appealing and user-friendly web applications.  <br>- 🌱 Currently learning Advanced Java Technology and exploring Artificial Intelligence.  <br>- 🧩 Outside coding, I love playing Video Games 🎮 and experimenting with IoT devices.  <br><br>
 
 
 # 💻 Tech Stack:
